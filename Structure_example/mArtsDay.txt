@@ -1,0 +1,27 @@
+900 METU Aikido
+111 Ali 21 3
+222 Ipek 23 6
+333 Utku 27 9
+444 Murat 32 2
+555 Gamze 21 5
+666 Emre 40 12
+777 Aydin 24 10
+888 Firat 28 8
+59 METU Jujitsu
+101 Cansu 38 9
+102 Nihan 36 4
+103 Osman 28 14
+104 Kamil 40 2
+105 Adnan 26 1
+106 Mustafa 30 5
+107 Kaan 36 9
+108 Alperen 21 4
+65 Bilkent Kendo
+201 Tolga 23 3
+202 Zafer 30 10
+203 Ates 40 8
+204 Baran 25 4
+205 Merve 30 5
+206 Elif 27 7
+207 Anil 31 9
+208 Ozkan 26 13
