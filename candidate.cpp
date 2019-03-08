@@ -1,5 +1,3 @@
-/*LG8_Q3 -> Hash Table*/
-
 #include<stdio.h>
 #include<stdlib.h>
 
