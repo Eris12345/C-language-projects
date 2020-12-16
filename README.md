@@ -40,3 +40,14 @@ You will write the car_wash function and do not forget also to create the car_wa
 
 linked_list
 ->A modular C program that reads several words from the text file words.txt, creating a linked list of them, and displays the list on the screen. Then, the program asks for strings, and displays the words starting or ending with each string, until the user enters ??
+
+
+
+
+************************************************************************************************************
+
+c++ project
+
+<img src="file:C:/Users/cumak/OneDrive/Masa%C3%BCst%C3%BC/diagram.png" alt="My cool logo"/>
+
+
